@@ -12,8 +12,9 @@
 > - 선택한 날짜에도 구분되는 background-color가 들어가야합니다.
 > - 버튼을 눌러서 이전 달 과 다음 달로 이동할 수있어야 합니다.
 > - 날짜를 선택하면 해당 Date 정보를 상태로 저장 할 수 있어야 합니다.
-> **참고하실 예시 UI**
->  ![스크린샷 2023-08-17 174549](https://github.com/hahbr88/IAO_coding_test/assets/90291796/03f1614d-8efa-4750-873e-cb4dadacfbb6)
+> 
+> - **참고하실 예시 UI**<br/>
+>   ![스크린샷 2023-08-17 174549](https://github.com/hahbr88/IAO_coding_test/assets/90291796/03f1614d-8efa-4750-873e-cb4dadacfbb6)
 > - 이대로 똑같이 만드실 필요는 없습니다. 
 
 <br/><br/>
